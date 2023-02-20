@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Venatrix](README.md)
-  * [Why Venatrix?](venatrix/why-venatrix.md)
-  * [Affiliate Marketing Program](venatrix/affiliate-marketing-program.md)
+* [Overview](README.md)
+  * [Why Venatrix?](overview/why-venatrix.md)
+  * [Affiliate Marketing Program](overview/affiliate-marketing-program.md)
